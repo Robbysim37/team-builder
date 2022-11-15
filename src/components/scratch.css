@@ -1,0 +1,5 @@
+.app{
+    border: 10px solid black;
+    flex-direction: row-reverse;
+    background-color: rgb(255, 255, 255);
+}
